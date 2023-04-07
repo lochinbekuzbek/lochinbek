@@ -1,3 +1,5 @@
 void main() {
-  print('lochin ');
+  String s = 'lochinbek *100';
+
+  print( s );
 }
